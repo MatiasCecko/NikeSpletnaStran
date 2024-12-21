@@ -2835,7 +2835,7 @@
 .shoe-container .nike-logo {
   position: absolute;
   top: 59.4%; /* Center vertically */
-  left: 60%; /* Center horizontally */
+  left: 60.2%; /* Center horizontally */
   transform: translate(-50%, -50%); /* Perfect centering */
   width: 32.8%; /* Adjust size as needed */
   height: auto;
@@ -2845,8 +2845,8 @@
 @media (max-width: 768px){
   .shoe-container .nike-logo {
    
-    top: 59.4%; /* Center vertically */
-    left: 55%; /* Center horizontally */
+    top: 60%; /* Center vertically */
+    left: 54.8%; /* Center horizontally */
     transform: translate(-50%, -50%); /* Perfect centering */
     width: 17%; /* Adjust size as needed */
    
@@ -2865,4 +2865,69 @@
     
   }
 }
+
+@media (max-width: 575px){
+  .shoe-container .nike-logo {
+   
+    top: 59.8%; /* Center vertically */
+    left: 58.8%; /* Center horizontally */
+    transform: translate(-50%, -50%); /* Perfect centering */
+    width: 30%; /* Adjust size as needed */
+   
+    
+  }
+}
+
+@media (max-width: 1200px){
+  .u-section-2 .u-image-3  {
+   
+    top: 5%; /* Center vertically */
+    left: 13%; /* Center horizontally */
+    transform: translate(-50%, -50%); /* Perfect centering */
+    width: 25%; /* Adjust size as needed */
+   
+    
+  }
+}
+
+@media (max-width: 992px){
+  .u-section-2 .u-image-3  {
+   
+    top: 6%; /* Center vertically */
+    left: 13%; /* Center horizontally */
+    transform: translate(-50%, -50%); /* Perfect centering */
+    width: 25%; /* Adjust size as needed */
+   
+    
+  }
+}
+
+@media (max-width: 768px){
+  .u-section-2 .u-image-3  {
+   
+    top: 6%; /* Center vertically */
+    left: 15%; /* Center horizontally */
+    transform: translate(-50%, -50%); /* Perfect centering */
+    width: 23%; /* Adjust size as needed */
+   
+    
+  }
+}
+
+@media (max-width: 575px){
+  .u-section-2 .u-image-3  {
+   
+    top: 8%; /* Center vertically */
+    left: 10.5%; /* Center horizontally */
+    transform: translate(-50%, -50%); /* Perfect centering */
+    width: 23%; /* Adjust size as needed */
+   
+    
+  }
+}
+
+
+
+
+
 
