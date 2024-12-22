@@ -2,11 +2,6 @@
 
 Za svojo projektno nalogo sem se odločil oblikovati logotip Nike in ga vključiti v spletno stran.
 
-<h1>LASTNOSTI</h1>
-
-
-
-
 <h1>SLIKE</h1>
 
 <h2>Png</h2>
