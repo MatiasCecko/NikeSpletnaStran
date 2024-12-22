@@ -25,14 +25,14 @@ Obrazec vsebuje funkcionalnost, ki takoj preveri, ali so vsa polja pravilno izpo
 
 <h1>SLIKE</h1>
 
-<h2>PNG</h2>
+<h2>png</h2>
 
 ![png](https://github.com/user-attachments/assets/2a35f6d3-0753-4b2b-b1fa-6275661f32a4)
 
-<h2>SVG</h2>
+<h2>svg</h2>
 
 ![svg](https://github.com/user-attachments/assets/099b1a86-adcd-4c74-92d1-a9500d051e67)
 
-<h2>Bézierova KRIVULJA</h2>
+<h2>Bézierova krivulja</h2>
 
 ![krivulja](https://github.com/user-attachments/assets/df6bd5c1-53b9-45bb-b08e-80f06091ece4)
