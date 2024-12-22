@@ -1,26 +1,10 @@
 <h1>Projektna naloga 2 - HTML5 (Nike)</h1>
 
-Za svojo projektno nalogo sem se odločil oblikovati nike logo in ga vključiti v spletno stran.
+Za svojo projektno nalogo sem se odločil oblikovati logotip Nike in ga vključiti v spletno stran.
 
 <h1>LASTNOSTI</h1>
 
-<h2>Animacija ob začetku</h2>
 
-Obrazec vsebuje animacijo, ki je prikazana, ko uporabnik prvič dostopa do strani.
-
-<h2>Več funkcionalnosti v enem obrazcu</h2>
-
-Prijava: Polja za vnos uporabniškega imena in gesla ter gumb za prijavo.
-Registracija: Možnost za ustvarjanje novega uporabniškega računa, s polji za ime, priimek, spol, država, telefonska številka, e-poštni naslov, uporabniško ime, geslo in potrditvijo geslo.
-Sprememba gesla: Možnost za ponastavitev ali spremembo gesla.
-
-<h2>Interaktivni elementi</h2>
-
-SweetAlert obvestila: Uporaba animiranih obvestil za potrditev akcij
-
-<h2>Preverjanje v realnem času</h2>
-
-Obrazec vsebuje funkcionalnost, ki takoj preveri, ali so vsa polja pravilno izpolnjena (npr. preverjanje e-poštnega naslova, dolžine gesla itd.), kar zmanjšuje napake in potrebo po popravkih.
 
 
 <h1>SLIKE</h1>
