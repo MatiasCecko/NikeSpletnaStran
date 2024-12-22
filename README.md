@@ -29,11 +29,9 @@ Obrazec vsebuje funkcionalnost, ki takoj preveri, ali so vsa polja pravilno izpo
 
 ![png](https://github.com/user-attachments/assets/2a35f6d3-0753-4b2b-b1fa-6275661f32a4)
 
-
 <h2>SVG</h2>
 
 ![svg](https://github.com/user-attachments/assets/099b1a86-adcd-4c74-92d1-a9500d051e67)
-
 
 <h2>KRIVULJA</h2>
 
