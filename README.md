@@ -33,6 +33,6 @@ Obrazec vsebuje funkcionalnost, ki takoj preveri, ali so vsa polja pravilno izpo
 
 ![svg](https://github.com/user-attachments/assets/099b1a86-adcd-4c74-92d1-a9500d051e67)
 
-<h2>KRIVULJA</h2>
+<h2>Bézierova KRIVULJA</h2>
 
 ![krivulja](https://github.com/user-attachments/assets/df6bd5c1-53b9-45bb-b08e-80f06091ece4)
