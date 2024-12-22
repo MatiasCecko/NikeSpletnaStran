@@ -25,15 +25,16 @@ Obrazec vsebuje funkcionalnost, ki takoj preveri, ali so vsa polja pravilno izpo
 
 <h1>SLIKE</h1>
 
-<h2>Obrazec</h2>
+<h2>PNG</h2>
 
-![image](https://github.com/user-attachments/assets/db276dbb-00c4-47d2-8cd0-93f44de34d50)
-![image](https://github.com/user-attachments/assets/1f049392-a412-40b6-8ebb-5d09c81f4553)
-![image](https://github.com/user-attachments/assets/9932ed13-d6ae-4846-8983-58993e97513d)
+![png](https://github.com/user-attachments/assets/2a35f6d3-0753-4b2b-b1fa-6275661f32a4)
 
-<h2>Sweetalerts</h2>
 
-![image](https://github.com/user-attachments/assets/7d91ec5b-9ead-4ef3-8c18-175cfe4e2f4a)
-![image](https://github.com/user-attachments/assets/64682fe4-e967-4358-a0e0-f35d1756cab6)
-![image](https://github.com/user-attachments/assets/56739a22-d51c-4b44-a999-b58d40cd0ef3)
-![image](https://github.com/user-attachments/assets/1bd1a70e-921d-4cac-bcd2-3cb3a967dedc)
+<h2>SVG</h2>
+
+![svg](https://github.com/user-attachments/assets/099b1a86-adcd-4c74-92d1-a9500d051e67)
+
+
+<h2>KRIVULJA</h2>
+
+![krivulja](https://github.com/user-attachments/assets/df6bd5c1-53b9-45bb-b08e-80f06091ece4)
