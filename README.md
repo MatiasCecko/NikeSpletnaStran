@@ -1,4 +1,4 @@
-<h1>PROJEKTNA NALOGA 1 - IZDELAVA LASTNEGA OBRAZCA</h1>
+<h1>Projektna naloga 2 - HTML5 (Nike)</h1>
 
 Za svojo projektno nalogo sem se odločil oblikovati obrazec za platformo SoundCloud.
 
