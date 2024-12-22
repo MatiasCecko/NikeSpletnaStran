@@ -1,6 +1,6 @@
 <h1>Projektna naloga 2 - HTML5 (Nike)</h1>
 
-Za svojo projektno nalogo sem se odločil oblikovati obrazec za platformo SoundCloud.
+Za svojo projektno nalogo sem se odločil oblikovati nike logo in ga vključiti v spletno stran.
 
 <h1>LASTNOSTI</h1>
 
