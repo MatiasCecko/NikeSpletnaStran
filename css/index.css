@@ -2835,9 +2835,9 @@
 .shoe-container .nike-logo {
   position: absolute;
   top: 59.4%; /* Center vertically */
-  left: 60.2%; /* Center horizontally */
+  left: 59.8%; /* Center horizontally */
   transform: translate(-50%, -50%); /* Perfect centering */
-  width: 32.8%; /* Adjust size as needed */
+  width: 31.5%; /* Adjust size as needed */
   height: auto;
   pointer-events: none; /* Prevent interference with clicks or interactions */
 }
