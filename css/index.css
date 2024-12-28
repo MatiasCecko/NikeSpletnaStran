@@ -2842,7 +2842,7 @@
   pointer-events: none; /* Prevent interference with clicks or interactions */
 }
 
-@media (max-width: 768px){
+@media (max-width: 769px){
   .shoe-container .nike-logo {
    
     top: 60%; /* Center vertically */
@@ -2902,7 +2902,7 @@
   }
 }
 
-@media (max-width: 768px){
+@media (max-width: 769px){
   .u-section-2 .u-image-3  {
    
     top: 6%; /* Center vertically */
