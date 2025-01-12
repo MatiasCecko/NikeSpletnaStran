@@ -2966,16 +2966,19 @@ footer {
   color: #ccc;
 }
 
-@media (max-width: 600px) {
-  .socialIcons a img {
-    width: 25px;
-    height: 25px;
-  }
-
-  .footer-text {
-    font-size: 12px;
-  }
+  .clickable-image {
+    cursor: pointer;
+    width: 64px; /* Icon size */
+    height: 64px;
+    transition: transform 0.3s ease, opacity 0.3s ease;
 }
+
+.clickable-image:hover {
+  transform: scale(1.2);
+}
+
+
+
 
 
 
