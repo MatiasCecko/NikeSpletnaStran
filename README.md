@@ -1,6 +1,6 @@
 <h1>Projektna naloga 2 - HTML5 (Nike)</h1>
 
-Za svojo projektno nalogo sem se odločil oblikovati logotip Nike in ga vključiti v spletno stran.
+Za svojo projektno nalogo sem se odločil oblikovati logotip Nike in ga vključil v spletno stran.
 
 <h1>SLIKE</h1>
 
